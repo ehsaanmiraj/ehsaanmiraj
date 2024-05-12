@@ -1,14 +1,14 @@
 # Ehsaan Miraj
 
-😄 Pronouns: Ehsaan.  
-💼 Current Employment: Software Engineer at CodingFlock.  
-🎓 Qualification: **BSCS**(Bachelor of Science in Computer Science), **Certification in Web Development**, Certification in Cybersecurity.  
-📚 Currently Learning: AI and Machine Learning.  
-⚡ Interests: Understanding algorithms, Reading blogs on AI, Cybersecurity and astronomy.  
-📝 Personal Blogs: [Tech Governor](https://techgovernor.com), [Net Tech AI](https://nettechai.com).  
-🎉 Fun fact: When I'm not coding, you can find me enjoying a swim, horse riding, or indulging in my love for food (and then hitting the gym to turn those delicious calories into muscle!).  
-💬 Ask me about: Web and app development, Technology trends, Web 3.0  
-📧 How to reach me: [LinkedIn](https://linkedin.com/in/ehsaanmiraj) or drop me an email at [mehsaanulhaqmiraaj@gmail.com](mailto:mehsaanulhaqmiraaj@gmail.com).  
+😄 **Pronouns**: Ehsaan.  
+💼 **Current Employment:** Software Engineer at CodingFlock.  
+🎓 **Qualification:** BSCS (Bachelor of Science in Computer Science), Certification in Web Development, Certification in Cybersecurity.  
+📚 **Currently Learning:** AI and Machine Learning.  
+⚡ **Interests:** Understanding algorithms, Reading blogs on AI, Cybersecurity and astronomy.  
+📝 **Personal Blogs:** [Tech Governor](https://techgovernor.com), [Net Tech AI](https://nettechai.com).  
+🎉 **Fun fact:** When I'm not coding, you can find me enjoying a swim, horse riding, or indulging in my love for food (and then hitting the gym to turn those delicious calories into muscle!).  
+💬 **Ask me about:** Web and app development, Technology trends, Web 3.0  
+📧 **How to reach me:** [LinkedIn](https://linkedin.com/in/ehsaanmiraj) or drop me an email at [mehsaanulhaqmiraaj@gmail.com](mailto:mehsaanulhaqmiraaj@gmail.com).  
 👯 I’m looking to collaborate on PHP/Laravel.  
 
 ## Recent Projects
