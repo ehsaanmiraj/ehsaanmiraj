@@ -1,12 +1,22 @@
 # Ehsaan Miraj
 
-![Profile Banner](https://link.to/your/banner/image)
+😄 Pronouns: Ehsaan.  
+💼 Current Employment: Software Engineer at CodingFlock.  
+🎓 Qualification: **BSCS**(Bachelor of Science in Computer Science), **Certification in Web Development**, Certification in Cybersecurity.  
+📚 Currently Learning: AI and Machine Learning.  
+⚡ Interests: Understanding algorithms, Reading blogs on AI, Cybersecurity and astronomy.  
+📝 Personal Blogs: [Tech Governor](https://techgovernor.com), [Net Tech AI](https://nettechai.com).  
+🎉 Fun fact: When I'm not coding, you can find me enjoying a swim, horse riding, or indulging in my love for food (and then hitting the gym to turn those delicious calories into muscle!).  
+💬 Ask me about: Web and app development, Technology trends, Web 3.0  
+📧 How to reach me: [LinkedIn](https://linkedin.com/in/ehsaanmiraj) or drop me an email at [mehsaanulhaqmiraaj@gmail.com](mailto:mehsaanulhaqmiraaj@gmail.com).  
+👯 I’m looking to collaborate on PHP/Laravel.  
 
-## About Me
+## Recent Projects
 
-Hey there! I'm Ehsaan, a passionate programmer with over 6 years of experience in the field. My journey began with **PHP** and **Laravel**, and since then, I've dived into various languages and frameworks, including HTML, CSS, JavaScript, jQuery, **ReactJS**, Next.js, Node.js, MySQL, Firebase, MongoDB, C++, and Linux. I'm constantly learning and exploring new technologies to stay ahead of the curve.
-
-Besides coding, I have a keen interest in understanding algorithms, writing tech blogs to share my knowledge, and delving into topics like cybersecurity and astronomy. Currently, I'm on a learning path in AI and Machine Learning, as well as picking up Arabic language skills.
+- **[packetek.nyc](https://www.packetek.nyc/)**
+- **[helpme.ae](https://helpme.ae/)**
+- **[fxcashbacks.com](https://www.fxcashbacks.com/)**
+- **[npidataservices.com](https://www.npidataservices.com/)**
 
 ##  Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=ehsaanmiraj&&show_icons=true&count_private=true&theme=github_dark">
@@ -66,44 +76,3 @@ Besides coding, I have a keen interest in understanding algorithms, writing tech
     <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm%20-%23000000.svg?logo=pycharm&logoColor=white">
     <img alt="Postman" src="https://img.shields.io/badge/Postman%20-%23FF6C37.svg?logo=postman&logoColor=white">
 </p>
-
-## Projects
-
-- **[packetek.nyc](https://www.packetek.nyc/)**
-- **[helpme.ae](https://helpme.ae/)**
-- **[fxcashbacks.com](https://www.fxcashbacks.com/)**
-- **[npidataservices.com](https://www.npidataservices.com/)**
-
-## Education & Certifications
-
-- **BSCS**: Bachelor of Science in Computer Science.
-- **Certification in Web Development**: Certified in cybersecurity practices.
-- **Certification in Cybersecurity**: Certified in cybersecurity practices.
-
-## Currently Learning
-- **AI & Machine Learning**
-
-## Personal Blogs
-
-You can find some of my writings on tech and AI on my personal blogs:
-
-- [Tech Governor](https://techgovernor.com)
-- [Net Tech AI](https://nettechai.com)
-
-## Ask Me About
-
-Feel free to reach out to me for discussions on:
-
-- Web and app development
-- Technology trends
-- Web 3.0
-
-## Fun Facts
-
-When I'm not coding, you can find me enjoying a swim, horse riding, or indulging in my love for food (and then hitting the gym to turn those delicious calories into muscle!).
-
-## Contact Me
-
-You can connect with me via [LinkedIn](https://linkedin.com/in/ehsaanmiraj) or drop me an email at [mehsaanulhaqmiraaj@gmail.com](mailto:mehsaanulhaqmiraaj@gmail.com).
-
-Looking forward to connecting with fellow developers and enthusiasts!
